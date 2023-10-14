@@ -1,0 +1,10 @@
+foo str = my value
+bar num = 145.2
+ok bool = true
+my_stuff list = [
+    hello
+    69
+]
+dude dict = {
+    where str = is my car
+}
